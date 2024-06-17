@@ -1,0 +1,25 @@
+
+
+java:S1192"GDefine a constant instead of duplicating this literal "Felipe" 3 times.(ÍåÁúúÿÿÿÿ8¸ƒÑ¼‚2J$a60e6a50-cefa-45b9-8dca-1c2815eeaa91
+
+java:S1192"GDefine a constant instead of duplicating this literal "Marcia" 3 times.(ÍåÁúúÿÿÿÿ8¹ƒÑ¼‚2J$bbaa790d-8426-42c4-82d5-a1649cc15418
+
+java:S1192"HDefine a constant instead of duplicating this literal "Augusto" 3 times.(ÍåÁúúÿÿÿÿ8¹ƒÑ¼‚2J$a5db5633-9fea-49ee-96fd-06543a732889
+
+java:S1192"FDefine a constant instead of duplicating this literal "Paulo" 3 times.(ÍåÁúúÿÿÿÿ8¹ƒÑ¼‚2J$6e34a220-7e02-4bea-a3c5-d67b49a60ffc
+
+java:S1192"GDefine a constant instead of duplicating this literal "JÃºlia" 3 times.(ÍåÁúúÿÿÿÿ8¹ƒÑ¼‚2J$d02cb475-d765-4a90-85d8-2f3d87017d9f
+m	java:S106"+Replace this use of System.out by a logger.(òŞ˜¶8¼ƒÑ¼‚2J$cbe3e9ff-cbe9-48cf-ba6f-62ef46613453
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ï·ÕÔúÿÿÿÿ8½ƒÑ¼‚2J$dd290753-f4bf-42f3-a515-69b77998b7ef
+m	java:S106"+Replace this use of System.out by a logger.(ÚÄ¬Ò8¾ƒÑ¼‚2J$b03f99a7-9125-49fe-9118-625dafa60544
+m	java:S106!"+Replace this use of System.out by a logger.(ôÊıç8¾ƒÑ¼‚2J$6b8db05e-de4d-4038-a19e-2390653d2937
+m	java:S106#"+Replace this use of System.out by a logger.(ºª²ß8¾ƒÑ¼‚2J$08946625-da8e-4fce-a843-9019dab9de8e
+a
+java:S2119'"Save and re-use this "Random".(–¢ƒø8ÀƒÑ¼‚2J$fb3e8344-cd3e-4efc-89b1-efdef987e3c1
+r	java:S106,"+Replace this use of System.out by a logger.(³Éòòşÿÿÿÿ8ÁƒÑ¼‚2J$f37d9bc4-4dd4-49af-83fb-e4c369dcc772
+m	java:S106."+Replace this use of System.out by a logger.(òŞ˜¶8ÃƒÑ¼‚2J$836def6b-11eb-4711-99a0-9eac7030a01c
+l	java:S106="+Replace this use of System.out by a logger.(°¼ß8ÃƒÑ¼‚2J$d15f40bd-ee6c-43e1-b78b-1ba7e42f40b9
+r	java:S106?"+Replace this use of System.out by a logger.(ŒÁ¤şÿÿÿÿ8ÅƒÑ¼‚2J$90df516f-a68b-434b-932e-4b77eee4cd0a
+r	java:S106L"+Replace this use of System.out by a logger.(Ó••¯üÿÿÿÿ8ÅƒÑ¼‚2J$93e83528-9376-4ba0-9279-c4224bf896ce
+r	java:S106N"+Replace this use of System.out by a logger.(¬Ë­±ûÿÿÿÿ8ÅƒÑ¼‚2J$9702c68d-e203-4526-a117-50098ee862bc
+m	java:S106P"+Replace this use of System.out by a logger.(›ÓµÍ8¤–×¼‚2J$793676a6-a501-43c1-966c-dd3daabda5af
